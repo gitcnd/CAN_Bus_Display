@@ -13,10 +13,10 @@ Future updates will add support for at least 6 simultaneous LCD displays, with c
 
 1. Only these 1.6" "SSD1283" screens:  https://www.aliexpress.com/wholesale?SearchText=SSD1283
  ![SSD2183 LCD Front](https://chrisdrake.com/img/lcd1.jpg) ![SSD2183 LCD Back](https://chrisdrake.com/img/lcd2.jpg)
-2. Arduino Uno
-   ![SSD2183 LCD Front](https://chrisdrake.com/img/Arduino_Uno_R3.jpeg)
-3. Sparkfun CAN Shield: https://www.sparkfun.com/products/13262
-   ![SSD2183 LCD Front](https://chrisdrake.com/img/sparkfun_can-bus_shield.jpeg)
+2. Arduino Uno: https://en.wikipedia.org/wiki/Arduino_Uno
+   ![Arduino Uno](https://chrisdrake.com/img/Arduino_Uno_R3.jpeg)
+3. Sparkfun CAN-BUS Shield: https://www.sparkfun.com/products/13262
+   ![Sparkfun CAN-BUS Shield](https://chrisdrake.com/img/sparkfun_can-bus_shield.jpeg)
 
 # NOTICE
 
